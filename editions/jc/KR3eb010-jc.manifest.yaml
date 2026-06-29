@@ -1,0 +1,186 @@
+canonical_identifier: bkk:krp/KR3eb010/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3eb010/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 證治心傳
+  identifiers:
+    krp: KR3eb010
+  tags:
+    kr-categories: KR3eb
+    tls-dates: dat04250
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eb010.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3eb010_000-jc.yaml, hash: 'sha256:56e1356f05b9766d2a143909935d9c69753dad295e9595079235390fbbbcdf8a'}
+  - {seq: 1, filename: KR3eb010_001-jc.yaml, hash: 'sha256:e34d368c9a7b34959b9dd1e8a6005b982182ab65ed493442af05232a536a7301'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eb010_000-jc.markers.yaml, hash: 'sha256:1437546da8c6fb5e449798a0e23a1444f72850c19e44d8a34dba714f68ed20f1'}
+  - {seq: 1, role: markers, filename: assets/KR3eb010_001-jc.markers.yaml, hash: 'sha256:57cd0285c7df284637800738e00afadab2c29438617992f43f0b60ea31144fae'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eb010_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 363
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3eb010_jc_001-d3.h1s1
+    span:
+    - body
+    - 0
+    - 12359
+  label: 卷一
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3eb010_jc_001-d3d2
+    span:
+    - body
+    - 2
+    - 1327
+  label: 證治總綱
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb010_jc_001-d3d3
+    span:
+    - body
+    - 1327
+    - 2566
+  label: 治病須明陰陽虛實論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb010_jc_001-d3d4
+    span:
+    - body
+    - 2566
+    - 3642
+  label: 治病必審四時用藥說
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb010_jc_001-d3d5
+    span:
+    - body
+    - 3642
+    - 4548
+  label: 辨症訂方必先審四診記
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb010_jc_001-d3d6
+    span:
+    - body
+    - 4548
+    - 5560
+  label: 用藥宜精審慎勿疏忽記
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb010_jc_001-d3d7
+    span:
+    - body
+    - 5560
+    - 6149
+  label: 胃為生化之源記
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb010_jc_001-d3d8
+    span:
+    - body
+    - 6149
+    - 6467
+  label: 保身可以卻疾說
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb010_jc_001-d3d9
+    span:
+    - body
+    - 6467
+    - 7409
+  label: 侍疾應知論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb010_jc_001-d3d10
+    span:
+    - body
+    - 7409
+    - 8003
+  label: 痎瘧咳嗽記
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb010_jc_001-d3d11
+    span:
+    - body
+    - 8003
+    - 8590
+  label: 中風腫脹辨
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb010_jc_001-d3d12
+    span:
+    - body
+    - 8590
+    - 9127
+  label: 虛勞說
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb010_jc_001-d3d13
+    span:
+    - body
+    - 9127
+    - 10289
+  label: 幼科治驗記
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb010_jc_001-d3d14
+    span:
+    - body
+    - 10289
+    - 11018
+  label: 胸脅腹痛肝胃氣逆辨
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb010_jc_001-d3d15
+    span:
+    - body
+    - 11018
+    - 12359
+  label: 溫熱溫疫辨
+  type: section
+  level: 2
+hash: sha256:fb0d42ec871fa3fb359f9ecd72129aada780b6ce878e96b226777cba8017eb51
