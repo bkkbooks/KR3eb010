@@ -17,17 +17,17 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3eb010_000.yaml, hash: 'sha256:99de739580c967454ab69b05c94fc31024b7cdd133b094d4eb52062c630f40f1'}
+  - {seq: 0, filename: KR3eb010_000.yaml, hash: 'sha256:e98c833133674422fa6c0887ffe309b8914145d2439cbc7cfd9b99b65078527e'}
   - {seq: 1, filename: KR3eb010_001.yaml, hash: 'sha256:e74580bad8012d08159bc0eff12d24534d9398d751a5ea76e3d18e6beff355f6'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eb010_000.markers.yaml, hash: 'sha256:477388a77f4bddd0ecc41945f64170d18cda90b6ca4efb01cfc9d8f5da6262e1'}
+  - {seq: 0, role: markers, filename: assets/KR3eb010_000.markers.yaml, hash: 'sha256:c71bb4ed7409203e94d17a293081094972b5c034769341aa741f16bace4c4ba7'}
   - {seq: 1, role: markers, filename: assets/KR3eb010_001.markers.yaml, hash: 'sha256:f1538d6c9c4d03ffa6cc1851e0aada3bc6ba61f9fc4fab73256858f6b0694b6c'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR3eb010_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 363
   label: 序
@@ -183,7 +183,7 @@ table_of_contents:
   label: 溫熱溫疫辨
   type: section
   level: 2
-hash: sha256:29d139e66ad54ec4a951659dae1ddddbd7a67b31ef946a9a213a4df8e72b5996
+hash: sha256:adbb5cc973caeab2b0af138ac5a5388ddb64d34345ca8a6c79fc892bed435b7a
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

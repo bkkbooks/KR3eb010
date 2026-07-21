@@ -17,17 +17,17 @@ metadata:
     short: jc
 assets:
   parts:
-  - {seq: 0, filename: KR3eb010_000-jc.yaml, hash: 'sha256:56e1356f05b9766d2a143909935d9c69753dad295e9595079235390fbbbcdf8a'}
+  - {seq: 0, filename: KR3eb010_000-jc.yaml, hash: 'sha256:aeb2070b16e1fc0e2dbc1c5a2dd16b55c5500bffd6d0a438a67ad23a60929da8'}
   - {seq: 1, filename: KR3eb010_001-jc.yaml, hash: 'sha256:e34d368c9a7b34959b9dd1e8a6005b982182ab65ed493442af05232a536a7301'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eb010_000-jc.markers.yaml, hash: 'sha256:1437546da8c6fb5e449798a0e23a1444f72850c19e44d8a34dba714f68ed20f1'}
+  - {seq: 0, role: markers, filename: assets/KR3eb010_000-jc.markers.yaml, hash: 'sha256:2808bbed3079a1fffe494b71fcbdd60a29ce17d886fdd980d9343bcdff4b2175'}
   - {seq: 1, role: markers, filename: assets/KR3eb010_001-jc.markers.yaml, hash: 'sha256:57cd0285c7df284637800738e00afadab2c29438617992f43f0b60ea31144fae'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR3eb010_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 363
   label: 序
@@ -183,4 +183,4 @@ table_of_contents:
   label: 溫熱溫疫辨
   type: section
   level: 2
-hash: sha256:fb0d42ec871fa3fb359f9ecd72129aada780b6ce878e96b226777cba8017eb51
+hash: sha256:7dc5a99a32262e7de3bf57c7a2434e156e4a9b53b32468e5f27848237349ac8e
